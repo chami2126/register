@@ -1,0 +1,11 @@
+{
+  "description": "Best Load - Sri Lanka Recharge & Bill Payment System",
+  "repo": "https://github.com/STICKnoLOGIC/bestload-lk",
+  "owner": {
+    "username": "STICKnoLOGIC",
+    "email": "indulachamindu62@gmail.com"
+  },
+  "record": {
+    "CNAME": ["cname.vercel-dns.com"]
+  }
+}
